@@ -1,0 +1,55 @@
+[
+  {
+    "id": 1,
+    "name": "Car Diagnostics Data Platform",
+    "image": "https://www.media.volvocars.com/image/low/131011/1_9/5?previewkey=l%2bDCS0hXTBQWMAY8l7bmWCN9wYU%3d",
+    "description": "Car diagnostics data processing and delivery platform on enhanced Scalable Platform Architecture v2 (SPA2) at Volvo Cars Corporation.",
+    "tags": ["Kubernetes", "Apache Spark", "Spark Streaming", "Protobuf", "Scala"],
+    "note": "https://www.pcbcupid.com/"
+  },
+  {
+    "id": 2,
+    "name": "Machine IoT Datalake Development",
+    "image": "https://www.patersonsimons.com/wp-content/uploads/2021/05/88043050766ead7ca6b8762b17a123ea2c58c2d2904b8323c9b9496848f741b2.jpg",
+    "description": "A data lake platform for IoT batch and streaming ETL, on-premise data movement, analytics, diagnostics and microservices at Konecranes Global Oy.",
+    "tags": ["AWS Big Data Stack", "Apache Airflow", "Apache Spark", "Serverless Framework", "Python"],
+    "source_code": "https://github.com/itsnitinr/driwwwle",
+    "demo": "http://driwwwle.herokuapp.co/"
+  },
+  {
+    "id": 3,
+    "name": "Edge-IoT and Run Time Data Flow Infrastructure",
+    "image": "https://www.mhm.lt/wp-content/uploads/2019/01/deti2.jpg",
+    "description": "Edge-IoT and microservices infrastructure development project to establish run-time IoT data flow from machines at Konecranes Global Oy.",
+    "tags": ["AWS Greengrass", "AWS IoT", "AWS Lambda", "AWS Kinesis", "Apache Kafka", "Kubernetes"],
+    "source_code": "https://github.com/itsnitinr/healthyways",
+    "demo": "https://healthyways.herokuapp.com/"
+  },
+  {
+    "id": 4,
+    "name": "VisuaLynk, BIM-IoT",
+    "image": "https://aec-business.com/wp-content/uploads/2018/08/VisuaLynk.jpg",
+    "description": "SaaS platform that collects, aggregates, and visually presents data from IoT devices and BIMs at VisuaLynk Oy.",
+    "tags": ["NodeJS", "ReactJS", "Neo4j", "IoT-OMI/ODF", "IFC", "D3js"],
+    "source_code": "https://github.com/itsnitinr/vscode-portfolio",
+    "demo": "http://vscode-portfolio.vercel.app/"
+  },
+  {
+    "id": 5,
+    "name": "SmartPlan: Interactive 2D Floor Plan for Facility Management",
+    "image": "https://pbs.twimg.com/media/DrThtSAWoAAcsNs?format=jpg&name=4096x4096",
+    "description": "BIM-enabled software for facility management using interactive floor plans, graph-based semantic data management and granular information retrieval.",
+    "tags": ["NodeJS", "ReactJS", "Neo4j", "IoT-OMI/ODF", "IFC", "D3js"],
+    "source_code": "https://github.com/itsnitinr/vscode-portfolio",
+    "demo": "http://vscode-portfolio.vercel.app/"
+  },
+  {
+    "id": 6,
+    "name": "InBookMode: Interactive Book and Modeling Environment",
+    "image": "https://theconstructor.org/wp-content/uploads/2020/08/ft.jpg",
+    "description": "An interactive teaching and learning platform which addresses the segregation problem in AEC-FM and BIM-related teaching and learning.",
+    "tags": ["NodeJS", "ReactJS", "Neo4j", "IoT-OMI/ODF", "IFC", "D3js"],
+    "source_code": "https://github.com/itsnitinr/vscode-portfolio",
+    "demo": "http://vscode-portfolio.vercel.app/"
+  }
+]

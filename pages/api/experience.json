@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Volvo Cars",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Volvo-Iron-Mark-Black.svg/1200px-Volvo-Iron-Mark-Black.svg.png",
+    "description": "Senior Data Engineer",
+    "tags": ["Aug 2021 - Ongoing", "Gothenburg, SWEDEN"],
+    "note": "https://www.volvocars.com/intl"
+  },
+  {
+    "id": 2,
+    "name": "Konecranes Global",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Konecranes-Logo.svg/2560px-Konecranes-Logo.svg.png",
+    "description": "Software/Data Engineer",
+    "tags": ["Sep 2017 - Jun 2021", "Espoo, FINLAND"],
+    "note": "https://www.konecranes.com/"
+  },
+  {
+    "id": 3,
+    "name": "VisuaLynk Oy",
+    "image": "https://visualynk.com/media/image/logo2.png",
+    "description": "Lead Developer",
+    "tags": ["Sep 2016 - Oct 2020", "Espoo, FINLAND"],
+    "note": "https://visualynk.com/"
+  },
+  {
+    "id": 4,
+    "name": "Aalto University",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Aalto_University_logo.svg/1200px-Aalto_University_logo.svg.png",
+    "description": "Doctoral Researcher",
+    "tags": ["March 2013 - Sep 2017", "Espoo, FINLAND"],
+    "note": "https://www.aalto.fi/"
+  },
+  {
+    "id": 5,
+    "name": "Entegre Project Management",
+    "image": "https://i.imgur.com/9675Mp7.png",
+    "description": "Construction Engineer",
+    "tags": ["Apr 2011 - Mar 2013", "Istanbul, TURKEY"],
+    "note": "https://epy.com.tr/"
+    },
+  {
+    "id": 6,
+    "name": "Illinois Institute of Technology",
+    "image": "https://www.iit.edu/sites/default/files/2020-08/iit-logo-thumbnail.png",
+    "description": "Teaching/Research Assistant",
+    "tags": ["Aug 2009 - Jan 2011", "Chicago, USA"],
+    "note": "https://www.iit.edu/"
+  }
+]
