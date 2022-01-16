@@ -33,7 +33,7 @@ const ContactPage = () => {
         <ContactCode />
       </div>
       {/* <div>
-        <h1>Or Fill Out The Form 🖌</h1>
+        <h1>Or Fill Out The Form. 🖌</h1>
         <form className={styles.form} onSubmit={submitForm}>
           <div className={styles.flex}>
             <div>
