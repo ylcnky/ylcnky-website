@@ -23,16 +23,16 @@ const ProjectCard = ({ project }) => {
               rel="noopener"
               className={styles.underline}
             >
-              Source Code
+              {/* Source Code */}
             </a>
           )}
           <a
-            href={project.demo}
+            // href={project.demo}
             target="_blank"
             rel="noopener"
             className={styles.underline}
           >
-            More Info
+            {/* More Info */}
           </a>
         </div>
       </div>

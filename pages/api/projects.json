@@ -4,7 +4,7 @@
     "name": "Car Diagnostics Data Platform",
     "image": "https://www.media.volvocars.com/image/low/131011/1_9/5?previewkey=l%2bDCS0hXTBQWMAY8l7bmWCN9wYU%3d",
     "description": "Car diagnostics data processing and delivery platform on enhanced Scalable Platform Architecture v2 (SPA2) at Volvo Cars Corporation.",
-    "tags": ["Kubernetes", "Apache Spark", "Spark Streaming", "Protobuf", "Scala"],
+    "tags": ["Kubernetes", "Apache Spark", "Spark Streaming", "Protobuf", "Scala", "AWS", "Azure"],
     "note": "https://www.pcbcupid.com/"
   },
   {
