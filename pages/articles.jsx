@@ -8,7 +8,7 @@ const ArticlesPage = ({ articles }) => {
         Recent Posts from{' '}
         <a
           href="https://www.ylcnky.com/articles"
-          target="_blank"
+          target="_self"
           rel="noopener"
           className={styles.underline}
         >
