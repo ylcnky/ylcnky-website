@@ -12,7 +12,7 @@ const ArticlesPage = ({ articles }) => {
           rel="noopener"
           className={styles.underline}
         >
-          my blog
+          ylcnky.com
         </a>
       </h3>
       <div className={styles.container}>
