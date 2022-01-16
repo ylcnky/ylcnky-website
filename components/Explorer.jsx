@@ -85,7 +85,7 @@ const Explorer = () => {
               <p>contact.css</p>
             </div>
           </Link>
-          <Link href="/articles">
+          {/* <Link href="/articles">
             <div className={styles.file}>
               <Image
                 src="/json_icon.svg"
@@ -95,7 +95,7 @@ const Explorer = () => {
               />{' '}
               <p>articles.json</p>
             </div>
-          </Link>
+          </Link> */}
           {/* <Link href="/github">
             <div className={styles.file}>
               <Image
